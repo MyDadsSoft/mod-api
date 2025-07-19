@@ -2,22 +2,37 @@ export async function onRequestGet() {
   return new Response(
     JSON.stringify([
       {
-        id: 1,
         name: "SkinPack 1.54++",
-        description: "Leaked By The Best",
-        url: "https://modsfire.com/eFr4aB7yzhxz6Z7"
+        mod_id: "145",
+        version: "1.54",
+        access_type: "FREE",
+        leaked_by: "The Best",
+        category: "Skins",
+        download_link: "https://modsfire.com/eFr4aB7yzhxz6Z7",
+        image_url: "https://i.postimg.cc/placeholder1.png",
+        created_at: "2025-07-10T12:00:00.000Z"
       },
       {
-        id: 2,
         name: "Realistic Physics Mod",
-        description: "Makes driving realistic",
-        url: "https://modsfire.com/someOtherLink"
+        mod_id: "146",
+        version: "2.0",
+        access_type: "FREE",
+        leaked_by: "PhysicsGuy",
+        category: "Gameplay",
+        download_link: "https://modsfire.com/someOtherLink",
+        image_url: "https://i.postimg.cc/placeholder2.png",
+        created_at: "2025-07-11T10:00:00.000Z"
       },
       {
-        id: 3,
         name: "Interior Addon Pack",
-        description: "New steering wheels & interiors",
-        url: "https://modsfire.com/anotherLinkHere"
+        mod_id: "147",
+        version: "1.1",
+        access_type: "FREE",
+        leaked_by: "ModderX",
+        category: "Interiors",
+        download_link: "https://modsfire.com/anotherLinkHere",
+        image_url: "https://i.postimg.cc/placeholder3.png",
+        created_at: "2025-07-09T09:00:00.000Z"
       }
     ]),
     {
