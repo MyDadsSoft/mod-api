@@ -10,7 +10,7 @@ export async function onRequestGet() {
         category: "Skins",
         download_link: "https://modsfire.com/eFr4aB7yzhxz6Z7",
         image_url: "https://i.postimg.cc/placeholder1.png",
-        created_at: "2025-07-10T12:00:00.000Z"
+        created_at: "2025-07-19T13:16:00.000Z"
       },
       {
         name: "Realistic Physics Mod",
@@ -21,7 +21,7 @@ export async function onRequestGet() {
         category: "Gameplay",
         download_link: "https://modsfire.com/someOtherLink",
         image_url: "https://i.postimg.cc/placeholder2.png",
-        created_at: "2025-07-11T10:00:00.000Z"
+        created_at: "2025-07-19T13:16:00.000Z"
       },
       {
         name: "Interior Addon Pack",
@@ -32,7 +32,7 @@ export async function onRequestGet() {
         category: "Interiors",
         download_link: "https://modsfire.com/anotherLinkHere",
         image_url: "https://i.postimg.cc/placeholder3.png",
-        created_at: "2025-07-09T09:00:00.000Z"
+        created_at: "2025-07-19T13:16:00.000Z"
       }
     ]),
     {
