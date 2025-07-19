@@ -1,0 +1,3 @@
+name = "mod-api"
+compatibility_date = "2025-07-19"
+pages_build_output_dir = "."  # Tells Wrangler this is a Pages Functions project
