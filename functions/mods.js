@@ -9,7 +9,7 @@ export async function onRequestGet() {
         leaked_by: "The Best",
         category: "Skins",
         download_link: "https://modsfire.com/eFr4aB7yzhxz6Z7",
-        image_url: "https://i.postimg.cc/placeholder1.png",
+        image_url: "https://files.fbi.cyou/content/cdn/ioLUHmwRcLel.png",
         created_at: "2025-07-19T13:16:00.000Z"
       },
       {
