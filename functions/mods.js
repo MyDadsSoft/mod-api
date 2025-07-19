@@ -3,9 +3,9 @@ export async function onRequestGet() {
     JSON.stringify([
       {
         id: 1,
-        name: "Realistic Physics Mod",
-        description: "Makes driving realistic",
-        url: "https://modsfire.com/YOUR_MODSFIRE_LINK"
+        name: "1.54 Wrecker Mod",
+        description: "Leaked By The Best",
+        url: "https://modsfire.com/8SfISvp5gY3BB3q"
       }
     ]),
     {
