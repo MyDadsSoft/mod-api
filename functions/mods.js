@@ -3,9 +3,9 @@ export async function onRequestGet() {
     JSON.stringify([
       {
         id: 1,
-        name: "1.54 Wrecker Mod",
+        name: "SkinPack 1.54++",
         description: "Leaked By The Best",
-        url: "https://modsfire.com/8SfISvp5gY3BB3q"
+        url: "https://modsfire.com/eFr4aB7yzhxz6Z7"
       },
       {
         id: 2,
